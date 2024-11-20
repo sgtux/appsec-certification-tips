@@ -9,7 +9,7 @@ Tópicos abordados:
 - [Input Validation Mechanisms](./input-validations.md)
   - Blacklisting
   - Whitelisting
-- Cross-Site Scripting
+- [Cross-Site Scripting](./xss.md)
 - SQL Injection
 - [XML External Entity Attack](./xml-external-entities.md)
 - Cross-Site Request Forgery
